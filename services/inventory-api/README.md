@@ -18,3 +18,4 @@ Legacy inventory management service.
 ## Endpoints
 
 Please contact the inventory team for endpoint information.
+# Inventory API improvements
